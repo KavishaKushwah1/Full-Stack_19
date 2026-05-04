@@ -1,18 +1,18 @@
-{
+[
     {
         "id" :1,
         "title" : "Book1",
         "author" : "XYZ"
 
-    }
+    },
     {
         "id" : 2,
         "title" : "Book2",
         "author" : "ABC"
-    }
+    },
     {
         "id":3,
         "title" : "Book3",
         "author" : "PQR"
     }
-}
+]
